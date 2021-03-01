@@ -7,3 +7,6 @@
 [submodule "vim-easy-align"]
 	path = vim-easy-align
 	url = ./plugged/vim-easy-align
+[submodule "vim-plug"]
+	path = vim-plug
+	url = ./vim-plug
