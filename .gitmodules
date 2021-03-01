@@ -1,0 +1,9 @@
+[submodule "seoul256.vim"]
+	path = seoul256.vim
+	url = ./plugged/seoul256.vim
+[submodule "vim-easymotion"]
+	path = vim-easymotion
+	url = ./plugged/vim-easymotion
+[submodule "vim-easy-align"]
+	path = vim-easy-align
+	url = ./plugged/vim-easy-align
